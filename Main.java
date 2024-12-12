@@ -37,7 +37,7 @@ public class Main {
     
     public static void main(String[] args) throws IOException {
         Scanner entrada = new Scanner(System.in);
-        String estacao;
+        String estacao;//declara a variável estação
         System.out.printf("Digite a estação do ano: ");//pergunta ao usuário qual a estação do ano
         estacao = entrada.nextLine();//armazena a resposta do usuário
         cores(estacao);//chama a função pra mostrar as cores
