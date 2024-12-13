@@ -1,6 +1,6 @@
 /*
 * Autor: Maria Eduarda Wanderley
-* Linguagem:Python
+* Linguagem: C
 * Data: 11/12/2024
 * Descrição:indica cores que combinem para cada estação.
 * Funcionalidades:digita a estação (inverno, verão, primavera ou outono), ai ele te informa a melhor paleta de cores para a ocasião, pode ser útil para escolher as melhores cores para roupas, make ou calçados.
